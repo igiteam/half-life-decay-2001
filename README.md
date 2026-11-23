@@ -9,13 +9,13 @@ A cooperative Half-Life Decay 2001 game was a PlayStation 2 version of Half-Life
 [https://api.github.com/repos/igiteam/marines-modern-urban-combat-wii/git/trees/main?recursive=1](https://api.github.com/repos/igiteam/marines-modern-urban-combat-wii/git/trees/main?recursive=1)
 
 ## Base Gameplay
-[![Half-Life: Decay](https://img.youtube.com/vi/dHkovGoPzkc/maxresdefault.jpg)](https://ytembed.macosxjs.com/?ZEhrb3ZHb1B6a2M)
-
 [![Half-Life Decay - Split Screen Co-op on PCSX2](https://img.youtube.com/vi/mHOaNltsvSw/maxresdefault.jpg)](https://ytembed.macosxjs.com/?bUhPYU5sdHN2U3c)
 
 [![Gold-src Tutorials](https://i.ytimg.com/vi/kddvH9noUN0/hqdefault.jpg)](https://www.youtube.com/playlist?list=PLb8oNKiUbnjG2PTtT6mmlNKLhIuDNK7yN)
 
 [![Decay Co-op](https://raw.githubusercontent.com/igiteam/half-life-decay-2001/refs/heads/main/E3_640x488_2.2.jpg)](https://raw.githubusercontent.com/igiteam/half-life-decay-2001/refs/heads/main/E3_640x488_2.2.jpg)
+
+[![Half-Life: Decay](https://img.youtube.com/vi/dHkovGoPzkc/maxresdefault.jpg)](https://ytembed.macosxjs.com/?ZEhrb3ZHb1B6a2M)
 
 
 ## WS11WineCX20.0.4 (macOS Big Sur 32-bit)
