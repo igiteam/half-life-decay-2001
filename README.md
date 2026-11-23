@@ -3,10 +3,10 @@
 A cooperative Half-Life Decay 2001 game was a PlayStation 2 version of Half-Life. 
 
 ## Github Treeview
-[https://treegit.macosxjs.com/?url=igiteam/marines-modern-urban-combat-wii](https://treegit.macosxjs.com/?url=igiteam/marines-modern-urban-combat-wii)
+[https://treegit.macosxjs.com/?url=igiteam/half-life-decay-2001](https://treegit.macosxjs.com/?url=igiteam/half-life-decay-2001)
 
 ## Github Tree Api Direct JSON
-[https://api.github.com/repos/igiteam/marines-modern-urban-combat-wii/git/trees/main?recursive=1](https://api.github.com/repos/igiteam/marines-modern-urban-combat-wii/git/trees/main?recursive=1)
+[https://api.github.com/repos/igiteam/half-life-decay-2001/git/trees/main?recursive=1](https://api.github.com/repos/igiteam/half-life-decay-2001/git/trees/main?recursive=1)
 
 ## Base Gameplay
 [![Half-Life Decay - Split Screen Co-op on PCSX2](https://img.youtube.com/vi/mHOaNltsvSw/maxresdefault.jpg)](https://ytembed.macosxjs.com/?bUhPYU5sdHN2U3c)
