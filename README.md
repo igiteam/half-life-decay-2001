@@ -17,6 +17,7 @@ A cooperative Half-Life Decay 2001 game was a PlayStation 2 version of Half-Life
 
 [![Half-Life: Decay](https://img.youtube.com/vi/dHkovGoPzkc/maxresdefault.jpg)](https://ytembed.macosxjs.com/?ZEhrb3ZHb1B6a2M)
 
+![https://raw.githubusercontent.com/igiteam/half-life-decay-2001/main/half_life_milkshape_1_8_5_3.jpg](https://raw.githubusercontent.com/igiteam/half-life-decay-2001/main/half_life_milkshape_1_8_5_3.jpg)
 
 ## WS11WineCX20.0.4 (macOS Big Sur 32-bit)
 
@@ -29,6 +30,10 @@ A cooperative Half-Life Decay 2001 game was a PlayStation 2 version of Half-Life
 [https://www.moddb.com/mods/half-life-decay-v102](https://www.moddb.com/mods/half-life-decay-v102)
 
 [https://archive.org/details/half-life-1-pc-iso](https://archive.org/details/half-life-1-pc-iso)
+
+[https://archive.org/details/milkshape1-7-6](https://archive.org/details/milkshape1-7-6)
+
+[https://www.moddb.com/mods/half-life-modding-kit](https://www.moddb.com/mods/half-life-modding-kit)
 
 [![Half-Life Decay](https://raw.githubusercontent.com/igiteam/half-life-decay-2001/refs/heads/main/half-life-playstation-2.jpg)](https://www.moddb.com/mods/half-life-decay-v102)
 
